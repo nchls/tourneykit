@@ -1,0 +1,28 @@
+{
+  "name": "tourneykit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/client/app.js",
+  "scripts": {
+    "build": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchls/tourneykit.git"
+  },
+  "author": "Ian Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchls/tourneykit/issues"
+  },
+  "homepage": "https://github.com/nchls/tourneykit#readme",
+  "dependencies": {
+    "formik": "^1.5.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.0",
+    "redux": "^4.0.1",
+    "webpack": "^4.29.6"
+  }
+}
